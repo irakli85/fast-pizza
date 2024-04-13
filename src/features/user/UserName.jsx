@@ -1,7 +1,7 @@
 
 const UserName = () => {
   return (
-    <div className="text-sm font-semibold hidden">
+    <div className="text-sm font-semibold hidden md:block">
         Irakli
     </div>
   )
